@@ -2,7 +2,9 @@
 This is a custom ServiceNow application to manage the migration of Configuration data between ServiceNow instances.
 
 **Application Name:** Config Migrator
+
 **Application Scope:** x_snc_cfgmig
+
 **Author:** Zac Murray & Dan Conroy
 
 ## Use Case
